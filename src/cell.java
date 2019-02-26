@@ -1,6 +1,8 @@
 //Sen Zhang
 //add your name in the following line!
 
+// Nicholas Pascucci
+
 class cell
 {
   int type;
